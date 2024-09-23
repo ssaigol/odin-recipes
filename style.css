@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Brush Script MT", Tahoma, serif;
+    text-align: center;
+    font-size: 42px;
+    background-color: burlywood;
+    color: rgb(42, 41, 41);
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 28px;
+    background-color: antiquewhite;
+    color: aliceblue;
+
+}
