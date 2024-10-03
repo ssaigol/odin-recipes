@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
 h1 {
     font-family: "Brush Script MT", Tahoma, serif;
     text-align: center;
@@ -6,11 +14,19 @@ h1 {
     color: rgb(42, 41, 41);
 }
 
+ul {
+    margin: 0 auto;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
 li {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 28px;
     background-color: antiquewhite;
     color: aliceblue;
-
+    display: inline;
+    padding: 5px;
+    margin: auto 20px;
 }
